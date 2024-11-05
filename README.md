@@ -8,3 +8,4 @@ This depository contains my projects:
 - An overhaul version of this, using .net data framework
 - A classic Blackjack game, mostly meant to demonstrate Class OOP of C#
 - A project to code-first create database (using C# class model as template and transform into database)
+- A car insurance quote program, demonstrating MVC concept and view control.
